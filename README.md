@@ -9,7 +9,7 @@ downloand Python [here](https://www.python.org/downloads/).
 
 **Clone repository**
 
-1. In your temrinal, copy and paste the following:
+1. In your Terninal, copy and paste the following:
 `$ git clone https://github.com/ruthmatieu/adventure-game.git`
 
 2. Press **Enter**. Your local clone will be created.
