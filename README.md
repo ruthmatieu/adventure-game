@@ -1,7 +1,5 @@
 # Python Adventure Game
 
-This **python adventure game** was created with Udacity's Programming Nanodegree program.
-
 ## Getting Started
 
 If game is being played on local device, ensure Python is already installed. If not, 
