@@ -1,5 +1,5 @@
 # Python Adventure Game
-
+This text-based Python game allows you to explore a world of adventure. Make the wrong choices, you might die. Make the right choices, you'll be one step closer to winning. Your destiny is in your hands.
 ## Getting Started
 
 If game is being played on local device, ensure Python is already installed. If not, 
