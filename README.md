@@ -7,7 +7,7 @@ downloand Python [here](https://www.python.org/downloads/).
 
 **Clone repository**
 
-1. In your Terminal, copy and paste the following:
+1. In your Terminal, copy and paste the following code:
 `$ git clone https://github.com/ruthmatieu/adventure-game.git`
 
 2. Press **Enter**. Your local clone will be created.
